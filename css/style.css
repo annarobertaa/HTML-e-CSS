@@ -7,7 +7,7 @@ body{
 	font-size: 24px;
 	font-family: arial;
 	border-style: hidden;
-	margin-right: 40%;
+	margin-right: 10%;
 	margin-left: 10%;
 }
 
@@ -29,7 +29,12 @@ body{
 	margin-right: 40%;
 	margin-left: 10%;
 }
-	
-	a:hover{
-	color: #8B4513	
+
+	h4{
+	font-size: 24px;
+	font-family: arial;
+	border-style: hidden;
+	margin-right: 10%;
+	margin-left: 10%;
+}
 	}
