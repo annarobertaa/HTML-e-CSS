@@ -116,6 +116,8 @@ a:hover{
 
 	background-color: rgb(102,205,170);
 	color: black;
+	border: solid;
+	border-color: #008080;
 }
 
 label{
@@ -130,6 +132,7 @@ ul{
 	position: absolute;
 	top: 70px;
 	width: 100%;
+	padding-left: 10px;
 }
 
 input[type="checkbox"]:checked ~ nav{
