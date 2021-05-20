@@ -139,3 +139,10 @@ input[type="checkbox"]:checked ~ nav{
 
 	transform: translateX(350px);
 }
+
+.logo{
+
+	margin-left: 50%;
+	margin-top: -0.1%;
+
+}
